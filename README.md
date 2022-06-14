@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paco Murillo @PaxxonML
 - To view my certifications head to: https://github.com/PaxxonML/certifications
-- 👀 I’m interested in AI/ML & Quantum Computing 
-- 🌱 I’m currently learning Engineering in Computing Systems
+- 👀 I’m interested in IT Project Management
+- 🌱 I’m currently studying Engineering in Computing Systems @ Tecnológico de Monterrey
 - 📫 How to reach me jfmurillol@gmail.com Subject [Github] plz
 
 <!---
